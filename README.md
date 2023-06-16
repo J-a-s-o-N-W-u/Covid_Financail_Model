@@ -29,6 +29,9 @@ The main idea is to consturct the idnex which is affected by the below two group
 
 ## Correlation with VIX Index
 
+![Figure_1](https://github.com/dsChenWu/Pandemic-Sentiment-Index/assets/115355972/c6a3c510-8879-40a3-8846-ad4b7ddaefda)
+
+
 ## Summary
 1. When combining the **Pandemic variables** and **Financial Variables** it can have better prediction to the next t+1 day comparining text-mining method or only using the financial variables
 2. It provided a new concept in the future when we would like to know the sentiment during the pandemic or some short shock.
