@@ -33,5 +33,5 @@ The main idea is to consturct the idnex which is affected by the below two group
 
 
 ## Summary
-1. When combining the **Pandemic variables** and **Financial Variables** it can have better prediction to the next t+1 day comparining text-mining method or only using the financial variables
+1. When combining the **Pandemic variables** and **Financial Variables** it can have better prediction to the next t+1 day comparining text-mining method or only using the financial variables.
 2. It provided a new concept in the future when we would like to know the sentiment during the pandemic or some short shock.
