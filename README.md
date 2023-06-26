@@ -18,7 +18,7 @@ The main idea is to consturct the idnex which is affected by the below two group
 2. First day return on IPOs (RIPO)
 3. Number of IPOs (NIPO)
 4. Closed-end fund discount (CEFD)
-5. Equity share in new issues (S)\
+5. Equity share in new issues (S)
 #### All these varibales are training variables which means it is not the raw data. If you have interested in how the variables are calculated, you can check my thesis.
 
 ## Training Models choosed
